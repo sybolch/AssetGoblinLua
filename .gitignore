@@ -1,0 +1,4 @@
+.idea/
+coverage*
+go.work
+go.work.sum
